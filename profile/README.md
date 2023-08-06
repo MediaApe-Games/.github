@@ -1,6 +1,6 @@
 # MediaApe 👍
 We are:
-A games company 
-A games website
-Game lovers
-And partially, silly little boykissers :3
+1. A games company 
+2. A games website
+3. Game lovers
+4. And partially, silly little ~~boykissers~~ goobers
